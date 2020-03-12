@@ -7,7 +7,7 @@ This can also be used to hide the windows 8/10 OSD popup!
 
 All credits go to the original author of the ChangeVolume function used in [volctrl.exe](https://github.com/rahmedd/Windows-Volume-Control/releases), Sayyed Mostafa Hashemi [from codeproject.com](https://www.codeproject.com/Tips/233484/Change-Master-Volume-in-Visual-Cplusplus)
 
-### Parts & Pin out (for NodeMCU)
+## Parts & Pin out (for NodeMCU)
 esp8266 dev board
 
 B10K Potentiometer (linear pot)
@@ -20,9 +20,6 @@ B10K Potentiometer (linear pot)
 - D2 - SDA
 - 3V3 - VCC
 - GND - GND
-	
-
-
 
 ### Dependencies
 [Arduino i2c display library](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library) - You must install from this repo
