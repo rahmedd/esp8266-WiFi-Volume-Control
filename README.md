@@ -26,6 +26,7 @@ B10K Potentiometer (linear pot)
 
 ### Dependencies
 [Arduino i2c display library](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library) - You must install from this repo
+
 [Windows Volume Control tool](https://github.com/rahmedd/Windows-Volume-Control/releases)
 
 ## Usage
